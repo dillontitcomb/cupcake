@@ -1,0 +1,18 @@
+img {
+	width: 10%;
+}
+
+h1 {
+	text-align: left;
+	color: darkblue;
+}
+
+.flashy {
+	color: red;
+	font-style: italic;
+}
+
+
+body {
+	background-color: lightgray;
+}
